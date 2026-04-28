@@ -1,6 +1,4 @@
 # AWS-Bedrock
-
-# AWS Bedrock
  
 > A fully managed service for building generative AI applications using foundation models (FMs) from leading AI companies — without managing infrastructure.
  
